@@ -6,3 +6,6 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+
+// to runt he script. user go run <file-name> in cli
